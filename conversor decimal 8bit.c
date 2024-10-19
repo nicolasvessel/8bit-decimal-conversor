@@ -3,8 +3,8 @@
 
 {
     int decimal;
-    int R1, R2, R3, R4, R5, R6, R7, R8; //resto resultado//
-    int d1, d2, d3, d4, d5, d6, d7; //decimal//
+    int R1, R2, R3, R4, R5, R6, R7, R8; //resto resultado
+    int d1, d2, d3, d4, d5, d6, d7; //decimal
 
     //interface do usuario//
 
@@ -12,7 +12,7 @@
     scanf ("%i", &decimal);
     printf ("\n");
 
-    //verificador de limite 8 bits//
+    //verificador de limite 8 bits
     if (decimal > 255)
     {
         printf("ERRO!\n");
