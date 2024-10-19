@@ -3,8 +3,8 @@
 
 {
     int decimal;
-    int R1, R2, R3, R4, R5, R6, R7, R8;
-    int d1, d2, d3, d4, d5, d6, d7;
+    int R1, R2, R3, R4, R5, R6, R7, R8; //resto resultado//
+    int d1, d2, d3, d4, d5, d6, d7; //decimal//
 
     //interface do usuario//
 
